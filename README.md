@@ -1,3 +1,3 @@
 # Try out Organograma on vercel
 
-===> https://vercel.com/guevarathiago/organograma <===
+===> https://organograma-rho.vercel.app <===
